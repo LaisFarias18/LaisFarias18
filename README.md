@@ -2,25 +2,23 @@
 
 Buscando virar uma DEV!!!
 
-Formada em Técnico de Administração de Empresas pela E.M Dr. Leandro Franceschini.
+Formada em Técnica de Administração de Empresas pela E.M Dr. Leandro Franceschini.
 
-Cursando Gestão de Recursos Humanos na Universidade Anhembi Morumbi.
+Cursando Gestão de Recursos Humanos na [Universidade Anhembi Morumbi](https://portal.anhembi.br/).
 
-Atualmente trabalho como Analista de Implantação em empresa de Software para provedores de Internet.
+Atualmente trabalho como Analista de Implantação de Software para provedores de Internet, na empresa [RadiusNet](https://www.radius.net.br/).
 
-Estou entrando nesse mundo de programação, a princípio estou estudando Front-end (**HTML, CSS, JavaScript**). Posteriormente tenho interesse em Back-end.
+Estou entrando nesse mundo de programação, a princípio estou estudando Front-end (**HTML, CSS**). 
+<br>
+Posteriormente tenho interesse em Back-end.
 
 ### Estou Estudando 📖
 
-<div>
-    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" style="max-width: 100%" width=:"48"/> &nbsp;
-    <img scr="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" style="max-width: 100%" width=:"48"/> &nbsp;
-</div>
+[![My Skills](https://skills.thijs.gg/icons?i=html,css)](https://skills.thijs.gg)
 
 ### Tenho Interesse ⭐
 
-<div>
-    <img scr"https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" style="max-width: 100%" width=:"48"/> &nbsp;
-<div>
-    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg" style="max-width: 100%" width=:"48"/> &nbsp;
-</div>
+[![My Skills](https://skills.thijs.gg/icons?i=js,react,bootstrap)](https://skills.thijs.gg)
+
+### Conecte-se comigo no Linkedin!
+[Laís Farias](https://www.linkedin.com/in/la%C3%ADs-farias/)
