@@ -1,16 +1,26 @@
-### Hi there 👋
+### Saiba mais sobre mim 👋
 
-<!--
-**LaisFarias18/LaisFarias18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Buscando virar uma DEV!!!
 
-Here are some ideas to get you started:
+Formada em Técnico de Administração de Empresas pela E.M Dr. Leandro Franceschini.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Cursando Gestão de Recursos Humanos na Universidade Anhembi Morumbi.
+
+Atualmente trabalho como Analista de Implantação em empresa de Software para provedores de Internet.
+
+Estou entrando nesse mundo de programação, a princípio estou estudando Front-end (**HTML, CSS, JavaScript**). Posteriormente tenho interesse em Back-end.
+
+### Estou Estudando 📖
+
+<div>
+    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" style="max-width: 100%" width=:"48"/> &nbsp;
+    <img scr="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" style="max-width: 100%" width=:"48"/> &nbsp;
+</div>
+
+### Tenho Interesse ⭐
+
+<div>
+    <img scr"https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" style="max-width: 100%" width=:"48"/> &nbsp;
+<div>
+    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg" style="max-width: 100%" width=:"48"/> &nbsp;
+</div>
