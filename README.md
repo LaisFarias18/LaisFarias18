@@ -1,13 +1,13 @@
 ### Saiba mais sobre mim 👋
 
-Eu sou a Laís de Souza Farias, tenho 22 anos.
+Eu sou a Laís de Souza Farias, tenho 23 anos.
 
 Sou formada em Técnica de Administração de Empresas pela E.M Dr. Leandro Franceschini.
 
-Cursando Gestão de Recursos Humanos na [Universidade Anhembi Morumbi](https://portal.anhembi.br/).
+Sou formada em Técnologa em Gestão de Recursos Humanos na [Universidade Anhembi Morumbi](https://portal.anhembi.br/).
+Estou cursando Técnico de Desenvolvimento de Sistemas pela [ETEC - Escola Técnica Estadual de São Paulo](https://www.vestibulinhoetec.com.br/home/).
 
-
-Atualmente trabalho como Analista de Implantação de Software para provedores de Internet, na empresa [RadiusNet](https://www.radius.net.br/).
+Atualmente trabalho como Analista de Implantação, na empresa [Qyon](https://www.qyon.com/).
 
 **Buscando virar uma DEV!!!**
 
