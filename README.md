@@ -8,7 +8,7 @@ Sou formada em Técnologa em Gestão de Recursos Humanos na [Universidade Anhemb
 
 Estou cursando Técnico de Desenvolvimento de Sistemas pela [ETEC - Escola Técnica Estadual de São Paulo](https://www.vestibulinhoetec.com.br/home/).
 
-Atualmente trabalho como Analista de Implantação, na empresa [Qyon](https://www.qyon.com/).
+Atualmente trabalho como Analista de Implantação, na empresa [Qyon Sistemas Inteligentes](https://www.qyon.com/).
 
 **Buscando virar uma DEV!!!**
 
